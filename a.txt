@@ -1,6 +1,7 @@
 Maths-2
 Social-1
 Physics-2
-Chemistry-3
+English-3
 Economics-2
+
 
